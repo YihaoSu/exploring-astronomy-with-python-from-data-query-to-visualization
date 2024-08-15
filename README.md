@@ -10,4 +10,6 @@
 
 * 如何用Python探索星系觀測資料？ ([notebook程式碼](https://github.com/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/galaxy.ipynb)) ([Colab連結](https://colab.research.google.com/github/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/galaxy.ipynb))
 
+* 如何用Python探索星體的位置、距離及亮度？ ([notebook程式碼](https://github.com/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/coordinates_distance_brightness.ipynb)) ([Colab連結](https://colab.research.google.com/github/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/coordinates_distance_brightness.ipynb))
+
 * 如何用Python探索星體的生命軌跡圖？ ([notebook程式碼](https://github.com/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/HRD.ipynb)) ([Colab連結](https://colab.research.google.com/github/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/HRD.ipynb))
