@@ -14,4 +14,6 @@
 
 * 如何用Python繪製全天空星圖及星座圖？ ([notebook程式碼](https://github.com/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/all-sky-map_and_constellation.ipynb)) ([Colab連結](https://colab.research.google.com/github/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/all-sky-map_and_constellation.ipynb))
 
+* 如何用Python探索星體有多重？ ([notebook程式碼](https://github.com/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/mass_distribution.ipynb)) ([Colab連結](https://colab.research.google.com/github/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/mass_distribution.ipynb))
+
 * 如何用Python探索星體的生命軌跡圖？ ([notebook程式碼](https://github.com/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/HRD.ipynb)) ([Colab連結](https://colab.research.google.com/github/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/HRD.ipynb))
