@@ -17,3 +17,16 @@
 * 如何用Python探索星體有多重？ ([notebook程式碼](https://github.com/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/mass_distribution.ipynb)) ([Colab連結](https://colab.research.google.com/github/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/mass_distribution.ipynb))
 
 * 如何用Python探索星體的生命軌跡圖？ ([notebook程式碼](https://github.com/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/HRD.ipynb)) ([Colab連結](https://colab.research.google.com/github/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/HRD.ipynb))
+
+---
+你可以透過以下網路平台購買到《資料視覺化：用Python為星空作畫》這本書，但歡迎你到台中的天文主題書店「[仰望書房](https://www.facebook.com/zenith.asbk/)」現場購買、逛逛：
+* [博客來](https://www.books.com.tw/products/0010997110?sloc=main)
+* [天瓏](https://www.tenlong.com.tw/products/9786267383186)
+* [誠品](https://www.eslite.com/product/10012011762682620163006)
+* [Readmoo讀墨](https://readmoo.com/book/210345420000101)
+* [Kobo](https://www.kobo.com/tw/zh/ebook/python-243)
+* [讀冊](https://www.taaze.tw/products/11101043575.html)
+* [momo](https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13119403)
+* [PCHome](https://24h.pchome.com.tw/books/prod/DJBQD8-D900HQKOE)
+* [墊腳石](https://www.tcsb.com.tw/SalePage/Index/10034338)
+* [Google Play圖書](https://play.google.com/store/books/details/%E8%98%87%E7%BE%BF%E8%B1%AA_%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96_%E7%94%A8Python%E7%82%BA%E6%98%9F%E7%A9%BA%E4%BD%9C%E7%95%AB?id=EyAaEQAAQBAJ&hl=zh_TW)
