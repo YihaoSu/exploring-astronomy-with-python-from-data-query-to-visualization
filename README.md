@@ -18,6 +18,8 @@
 
 * 如何用Python探索星體的生命軌跡圖？ ([notebook程式碼](https://github.com/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/HRD.ipynb)) ([Colab連結](https://colab.research.google.com/github/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/HRD.ipynb))
 
+* 如何用Python探索星體在不同電磁波段下的樣貌？ ([notebook程式碼](https://github.com/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/multiwavelength_astronomy.ipynb)) ([Colab連結](https://colab.research.google.com/github/YihaoSu/exploring-astronomy-with-python-from-data-query-to-visualization/blob/main/notebooks/multiwavelength_astronomy.ipynb))
+
 ---
 你可以透過以下網路平台購買到《資料視覺化：用Python為星空作畫》這本書，但歡迎你到台中的天文主題書店「[仰望書房](https://www.facebook.com/zenith.asbk/)」現場購買、逛逛：
 * [博客來](https://www.books.com.tw/products/0010997110?sloc=main)
